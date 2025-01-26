@@ -30,7 +30,7 @@ Sophomore : Computer Engineering
 ### Completed subjects
 * Computer Programming (Python)
 * Introduction to Data Structure (C++)
-* Programming Methology (Java)
+* Programming Methodology (Java)
 
 ### Currently studying
 * Algorithm (C++)
