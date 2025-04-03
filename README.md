@@ -33,7 +33,6 @@ Sophomore : Computer Engineering
 * Programming Methodology (Java)
 
 ### Currently studying
-* Algorithm (C++)
 * Operating Systems and System Programs
 * Database Systems
 * Algorithm Design
