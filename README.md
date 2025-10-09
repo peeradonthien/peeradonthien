@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my Github</h1>
 <h3 align="center">I'm Peeradon Thienpongkasem (Chelsea). I'm a 3rd-year Computer Engineering student at Chulalongkorn University, interested in Web Development, Data Engineering, and Network Engineering.</h3>
 
-- 🌱 I’m currently learning **Next.js , React**
+- 🌱 I’m currently learning **Next.js , React , Cloud**
 
 - 📫 How to reach me **peeradonthienpongkasem@gmail.com**
 
