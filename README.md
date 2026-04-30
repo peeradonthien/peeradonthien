@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/peeradonthien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peeradonthien" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <span style="background-color:#f0f0f0; padding:5px; border-radius:8px; display:inline-block;">
@@ -116,8 +116,8 @@
       <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
     </span>
   </a>
-</p>
+</p> -->
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeradonthien&show_icons=true&locale=en&layout=compact" alt="peeradonthien" /></p>-->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeradonthien&show_icons=true&locale=en&layout=compact" alt="peeradonthien" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peeradonthien&show_icons=true&locale=en" alt="peeradonthien" /></p> -->
